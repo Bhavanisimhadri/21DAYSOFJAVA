@@ -1,0 +1,15 @@
+Time complexity: The amount of time and algorithm takes to complete as a function of the input size N.
+                 It is expressed using Big O notation(Worst case scenario).
+                 Common time complexities- O(1)-FAST 
+                                           O(logn)- LOGERITHMIC TIME(ex:binary search)
+                                           O(n)- LINEAR TIME(ex:traversing an array)
+                                           O(nlog(n))- LOG LINEAR TIME(ex:merge sort)
+                                           O(n^2)- QUADRATIC TIME(ex:bubble sort) 
+                                           O(2^n)- EXPONENTIAL TIME(ex:recursive fibonacci) 
+                                           O(n!)- FACTORIAL TIME(ex:brute force permutation)
+                FAST-O(1), SLOW-O(n!), RECOMENDED-O(nlog(n))
+
+Space complexity: Amount of memory an algorithm uses as a function of a input size N. 
+                  Includes memory used by input data, variables, stack-recursion, temporary data structure.
+
+
